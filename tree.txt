@@ -1,0 +1,16 @@
+Структура папок тома Новый том
+Серийный номер тома: 384A-52EC
+S:.
+L---lab18
+    +---git
+    +---van
+    ¦   +---MAN
+    ¦   L---CRAZ
+    +---car
+    ¦   +---Mersedes
+    ¦   +---Volvo
+    ¦   L---Toyota
+    L---jeeps
+        +---Land Cruiser
+        L---WYLLIS
+        
